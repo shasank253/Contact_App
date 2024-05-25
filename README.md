@@ -1,15 +1,20 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).![Screenshot (182)](https://github.com/shasank253/Contact_App/assets/85795995/16676fc2-de08-4f9b-8277-eb1dce6c8ead)
+
+![Screenshot (183)](https://github.com/shasank253/Contact_App/assets/85795995/43aa4823-a319-429d-a31b-a393616cf3e7)
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:![Screenshot (185)](https://github.com/shasank253/Contact_App/assets/85795995/cc9a0b96-062f-4cdc-aabd-5664f30f78a9)
 
-### `npm start`
+
+### `npm start`![Screenshot (184)](https://github.com/shasank253/Contact_App/assets/85795995/a2a797c0-d222-418d-b775-62f23e18bcb3)
+
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.![Screenshot (186)](https://github.com/shasank253/Contact_App/assets/85795995/371c6d3e-ee06-48cc-ba9e-34639e2661fd)
+
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
