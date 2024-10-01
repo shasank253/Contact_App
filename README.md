@@ -6,3 +6,5 @@ The Contact Management App is a web application designed to efficiently manage a
 
 
 ![WhatsApp Image 2024-05-25 at 14 25 03](https://github.com/user-attachments/assets/fdb4d437-0887-40c2-943c-37804cb081e7)
+
+![Screenshot (186)](https://github.com/user-attachments/assets/2d302dfe-84f9-4d69-b8c8-c836d49cf2a9)
